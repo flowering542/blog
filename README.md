@@ -13,8 +13,8 @@
 
 ### 技能树
 
-- 熟练掌握 php,Java,JaveEE 语言
-- 略懂JS、C（越来越遗忘了）
+- 熟练掌握 php(thinkphp),Java,JaveEE 语言
+- 略懂JS、C、Bootstrop、Easyui、Angularjs等
 - 熟悉数据库mysql
 - 喜欢系统底层原理、网络编程和Web相关知识
 - 了解TCP/IP、HTTP/HTTPS协议
